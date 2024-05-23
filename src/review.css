@@ -1,0 +1,25 @@
+.rating{
+    font-weight: lighter;
+    font-size: small;
+    background-color: #2874f0;
+    color: white;
+    border-radius: 100px;
+    
+}
+.ratingBox{
+    margin-left: 3%;
+    width: 40px;
+}
+.comment{
+    font-weight: lighter;
+    margin-left: 3%;
+    margin-top: 1%;   
+}
+.review{
+    border-bottom: 0.3px solid rgb(232, 229, 229);
+}
+.reviewTitle{
+    font-weight: normal;
+    margin-left: 3%;
+
+}

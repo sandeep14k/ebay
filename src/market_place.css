@@ -1,0 +1,45 @@
+body{
+    background-color: #f1f3f6;
+}
+.products{
+    background-color: white;
+    width: 82%;
+    display: flex;
+    flex-wrap: wrap;
+    position:absolute;
+    right: 1%;
+    top:50px;
+    z-index: 0;
+}
+
+
+
+  .marketProductLink {
+    width: 30%;
+    margin: 1%;
+  }
+  .marketProductCard{
+    height: 100%;
+}
+@media (max-width:885px){
+   .products{
+    right: 0%;
+   }
+}
+@media (max-width:730px){
+    .marketProductLink {
+        width: 45%; /* Make each card take full width on small screens */
+      }
+    .products{
+        right: 1%;
+        width: 80%;
+    }
+}
+@media (max-width:600px){
+    .products{
+        width: 99%;
+    }
+    .marketProductLink{
+        width: 48%;
+    }
+}

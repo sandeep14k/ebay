@@ -1,0 +1,121 @@
+{
+    "buy": [
+      {
+        "id": 30,
+        "title": "Premium Memory Foam Mattress",
+        "smallDescription": "Experience ultimate comfort with our premium memory foam mattress.",
+        "price": 999.99,
+        "image": "https://rukminim2.flixcart.com/image/832/832/kzrbiq80/bed-mattress/o/z/8/normal-top-single-4-soft-cotton-easy-foldable-light-weight-original-imagbpgfxnd2nmv3.jpeg?q=70&crop=false"
+      },
+      {
+        "id": 32,
+        "title": "Orthopedic Hybrid Mattress",
+        "smallDescription": "Find relief from back pain with our orthopedic hybrid mattress.",
+        "price": 1499.99,
+        "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/mattress-protector/o/c/e/gnghjkddngnjkl-shividecor-original-imagtbd4br9trnfy.jpeg?q=70&crop=false"
+      },
+      {
+        "id": 35,
+        "title": "Portable Air Cooler",
+        "smallDescription": "Stay cool in the summer with our portable air cooler.",
+        "price": 299.99,
+        "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/air-cooler/d/b/u/190-190-chillmist-60l-60-livpure-original-imagyaa6pgzk4net.jpeg?q=70&crop=false"
+      },
+      {
+        "id": 39,
+        "title": "Vintage Bicycle",
+        "smallDescription": "Ride in style with our vintage bicycle.",
+        "price": 499.99,
+        "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/cycle/5/b/g/beast-26t-with-front-suspension-and-disc-brake-and-complete-original-imagvz9y5hmgedy3.jpeg?q=70"
+      },
+      {
+        "id": 20,
+        "title": "Bestselling Mystery Book",
+        "smallDescription": "A thrilling mystery novel that will keep you guessing.",
+        "price": 24.99,
+        "image": "https://rukminim2.flixcart.com/image/612/612/kxrvi4w0/book/r/v/f/two-indian-girls-original-imaga58grurnu9fa.jpeg?q=70"
+      },
+      {
+        "id": 26,
+        "title": "Gaming Laptop with High Performance",
+        "smallDescription": "Immerse yourself in gaming with our high-performance laptop.",
+        "price": 1299.99,
+        "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/6/g/h/v15g4-laptop-lenovo-original-imagv65uhfgjb82h.jpeg?q=70"
+      }
+    ],
+    "sell": [
+      {
+        "id": 34,
+        "title": "Firm Support Mattress",
+        "smallDescription": "Get the support you need for a restful sleep with our firm support mattress.",
+        "price": 799.99,
+        "image": "hhttps://rukminim2.flixcart.com/image/832/832/xif0q/mattress-protector/m/h/0/dfgbffcghbygv-shividecor-original-imagtbefu8e5wg5j.jpeg?q=70&crop=false"
+      },
+      {
+        "id": 33,
+        "title": "Plush Pillow-Top Mattress",
+        "smallDescription": "Sink into softness with our plush pillow-top mattress.",
+        "price": 899.99,
+        "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/bed-mattress/f/j/k/normal-top-double-6-48-72-soft-cotton-multicolour-mattress-gadda-original-imagny5zege6ggzs.jpeg?q=70&crop=false"
+      },
+      {
+        "id": 37,
+        "title": "Electric Heater",
+        "smallDescription": "Stay warm during winter with our electric heater.",
+        "price": 199.99,
+        "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/room-heater/e/f/p/heat-max-activa-2000-original-imaghyuk6hz9xszf.jpeg?q=70"
+      },
+      {
+        "id": 29,
+        "title": "Budget-Friendly Laptop for Students",
+        "smallDescription": "Affordable laptop packed with features for students.",
+        "price": 499.99,
+        "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/6/e/g/-original-imagxqetsqyqgfah.jpeg?q=70"
+      },
+      {
+        "id": 24,
+        "title": "Bestselling Mystery Book",
+        "smallDescription": "A thrilling mystery novel that will keep you guessing.",
+        "price": 24.99,
+        "image": "https://rukminim2.flixcart.com/image/612/612/kxrvi4w0/book/r/v/f/two-indian-girls-original-imaga58grurnu9fa.jpeg?q=70"
+      },
+      {
+        "id": 28,
+        "title": "Convertible Laptop/Tablet Hybrid",
+        "smallDescription": "Versatile laptop and tablet in one device.",
+        "price": 899.99,
+        "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/6/e/g/-original-imagxqetsqyqgfah.jpeg?q=70"
+      }
+    ],
+    "onsell":[
+      {
+      "id": 2,
+      "title": "Cooling Gel Memory Foam Mattress",
+      "smallDescription": "Stay cool with this advanced gel memory foam mattress.",
+      "price": 399.99,
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/bed-mattress/e/v/b/normal-top-single-4-35-78-spine-master-with-nff-tech-bonded-foam-original-imahyas9yekwuywb.jpeg?q=70&crop=false"
+    },
+    {
+      "id": 6,
+      "title": "High Performance Air Cooler",
+      "smallDescription": "Keep cool with this efficient air cooler.",
+      "price": 149.99,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/air-cooler/0/3/g/200-0-vectra-85-hindware-original-imahygyrkcdzvghd.jpeg?q=70"
+    },
+    {
+      "id": 11,
+      "title": "Portable Electric Heater",
+      "smallDescription": "Compact and efficient electric heater.",
+      "price": 299.99,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/room-heater/e/f/p/heat-max-activa-2000-original-imaghyuk6hz9xszf.jpeg?q=70"
+    },
+    {
+      "id": 12,
+      "title": "Efficient and safe infrared heater.",
+      "smallDescription": "Experience high-quality sound with these wireless earbuds.",
+      "price": 499.99,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/room-heater/s/b/l/ignite-fan-heater-solora-2000-original-imagts5pzbbydymc.jpeg?q=70"
+    }
+    ]
+  }
+  

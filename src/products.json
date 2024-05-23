@@ -1,0 +1,1018 @@
+[
+  {
+    "id": 1,
+    "title": "Comfortable Memory Foam Mattress",
+    "smallDescription": "A luxurious memory foam mattress for a great night's sleep.",
+    "largeDescription": "Experience unparalleled comfort and support with our top-of-the-line memory foam mattress. Designed to contour to your body and provide the perfect balance of softness and firmness.",
+    "images": [
+      "https://rukminim2.flixcart.com/image/832/832/kzrbiq80/bed-mattress/o/z/8/normal-top-single-4-soft-cotton-easy-foldable-light-weight-original-imagbpgfxnd2nmv3.jpeg?q=70&crop=false",
+      "https://rukminim2.flixcart.com/image/832/832/kzrbiq80/bed-mattress/z/c/f/normal-top-single-4-soft-cotton-easy-foldable-light-weight-original-imagbpgfdhpmffce.jpeg?q=70&crop=false",
+      "https://rukminim2.flixcart.com/image/832/832/kzrbiq80/bed-mattress/c/v/k/normal-top-single-4-soft-cotton-easy-foldable-light-weight-original-imagbpgft3tr4bup.jpeg?q=70&crop=false"
+    ],
+    "reviews": [
+      {
+        "rating": 4.5,
+        "comment": "Very comfortable and supportive."
+      },
+      {
+        "rating": 5,
+        "comment": "Best mattress I've ever bought!"
+      }
+    ],
+    "price": 299.99,
+    "usedTime": 6,
+    "category": "Mattresses",
+    "sellerInfo": {
+      "name": "John Doe",
+      "location": {
+        "name": "Hall 1",
+        "coordinates": { "lat": 26.5123, "lng": 80.2314 }
+      },
+      "mobile": "123-456-7890",
+      "email": "john.doe@example.com"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Cooling Gel Memory Foam Mattress",
+    "smallDescription": "Stay cool with this advanced gel memory foam mattress.",
+    "largeDescription": "Our cooling gel memory foam mattress is designed to keep you cool throughout the night. The gel-infused foam provides superior comfort and helps regulate your body temperature.",
+    "images": [
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/bed-mattress/e/v/b/normal-top-single-4-35-78-spine-master-with-nff-tech-bonded-foam-original-imahyas9yekwuywb.jpeg?q=70&crop=false",
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/bed-mattress/z/t/b/normal-top-single-4-35-78-spine-master-with-nff-tech-bonded-foam-original-imahyas9cffzcmy3.jpeg?q=70&crop=false",
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/bed-mattress/x/t/w/normal-top-single-4-35-78-spine-master-with-nff-tech-bonded-foam-original-imahyas9mhfj5p5k.jpeg?q=70&crop=false"
+    ],
+    "reviews": [
+      {
+        "rating": 4.7,
+        "comment": "Cool and comfy!"
+      },
+      {
+        "rating": 4.8,
+        "comment": "Best cooling mattress ever."
+      }
+    ],
+    "price": 399.99,
+    "usedTime": 8,
+    "category": "Mattresses",
+    "sellerInfo": {
+      "name": "Alice Johnson",
+      "location": {
+        "name": "Hall 2",
+        "coordinates": { "lat": 26.5127, "lng": 80.2306 }
+      },
+      "mobile": "234-567-8901",
+      "email": "alice.johnson@example.com"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Orthopedic Mattress",
+    "smallDescription": "Support your back with our orthopedic mattress.",
+    "largeDescription": "Designed for those with back pain, our orthopedic mattress provides excellent support and alignment for your spine. Wake up refreshed and pain-free.",
+    "images": [
+      "https://rukminim2.flixcart.com/image/612/612/xif0q/bed-mattress/g/y/t/-original-imagrtbjjyva5rgg.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/612/612/xif0q/bed-mattress/i/0/e/normal-top-single-5-30-75-roma-bonded-foam-bonded-foam-epe-foam-original-imaghb5vemz6burb.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/612/612/xif0q/bed-mattress/e/l/f/normal-top-single-5-30-75-roma-bonded-foam-bonded-foam-epe-foam-original-imaghb5v4cjgyhvk.jpeg?q=70"
+    ],
+    "reviews": [
+      {
+        "rating": 4.6,
+        "comment": "Great for my back pain."
+      },
+      {
+        "rating": 4.9,
+        "comment": "Very supportive and comfortable."
+      }
+    ],
+    "price": 350.00,
+    "usedTime": 12,
+    "category": "Mattresses",
+    "sellerInfo": {
+      "name": "Bob Smith",
+      "location": {
+        "name": "Hall 3",
+        "coordinates": { "lat": 26.5129, "lng": 80.2309 }
+      },
+      "mobile": "345-678-9012",
+      "email": "bob.smith@example.com"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Eco-Friendly Latex Mattress",
+    "smallDescription": "Sustainable comfort with our eco-friendly latex mattress.",
+    "largeDescription": "Our eco-friendly latex mattress is made from natural materials and provides a comfortable and sustainable sleeping experience. Perfect for those who care about the environment.",
+    "images": [
+      "https://rukminim2.flixcart.com/image/612/612/xif0q/bed-mattress/f/j/k/normal-top-double-6-48-72-soft-cotton-multicolour-mattress-gadda-original-imagny5zege6ggzs.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/612/612/xif0q/bed-mattress/o/j/v/pillow-top-queen-5-72-60-soft-cotton-multicolour-6x5ft-mattress-original-imagzyw4hkgmyxrn.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/612/612/xif0q/bed-mattress/w/t/l/normal-top-king-5-48-72-6x4ft-5inch-002-cotton-cotton-greatwell-original-imaghhdjfyhkh5zf.jpeg?q=70"
+    ],
+    "reviews": [
+      {
+        "rating": 4.8,
+        "comment": "Love the eco-friendly materials."
+      },
+      {
+        "rating": 5,
+        "comment": "Super comfortable and sustainable."
+      }
+    ],
+    "price": 450.00,
+    "usedTime": 5,
+    "category": "Mattresses",
+    "sellerInfo": {
+      "name": "Carol White",
+      "location": {
+        "name": "Hall 4",
+        "coordinates": { "lat": 26.5131, "lng": 80.2312 }
+      },
+      "mobile": "456-789-0123",
+      "email": "carol.white@example.com"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Budget-Friendly Mattress",
+    "smallDescription": "Comfort and affordability in one mattress.",
+    "largeDescription": "Our budget-friendly mattress offers great comfort and support at an affordable price. Ideal for guest rooms or those on a tight budget.",
+    "images": [
+      "https://rukminim2.flixcart.com/image/612/612/xif0q/bed-mattress/v/s/v/-original-imaghhzgkbtff7ap.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/612/612/xif0q/bed-mattress/s/g/q/-original-imaghhzgn6zvkrh3.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/612/612/xif0q/bed-mattress/v/2/s/-original-imagt79msp6nfzzu.jpeg?q=70"
+    ],
+    "reviews": [
+      {
+        "rating": 4.2,
+        "comment": "Good value for money."
+      },
+      {
+        "rating": 4.4,
+        "comment": "Comfortable and affordable."
+      }
+    ],
+    "price": 199.99,
+    "usedTime": 9,
+    "category": "Mattresses",
+    "sellerInfo": {
+      "name": "David Brown",
+      "location": {
+        "name": "Hall 5",
+        "coordinates": { "lat": 26.5133, "lng": 80.2315 }
+      },
+      "mobile": "567-890-1234",
+      "email": "david.brown@example.com"
+    }
+  },
+  {
+    "id": 6,
+    "title": "High Performance Air Cooler",
+    "smallDescription": "Keep cool with this efficient air cooler.",
+    "largeDescription": "This high performance air cooler is perfect for beating the summer heat. With its advanced cooling technology, it ensures that your space remains cool and comfortable even on the hottest days.",
+    "images": [
+      "https://rukminim2.flixcart.com/image/612/612/xif0q/air-cooler/0/3/g/200-0-vectra-85-hindware-original-imahygyrkcdzvghd.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/612/612/xif0q/air-cooler/k/r/2/200-0-vectra-85-hindware-original-imahygyrcgt8y6f5.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/612/612/xif0q/air-cooler/9/v/l/200-0-vectra-85-hindware-original-imahygyruhe3ayzk.jpeg?q=70"
+    ],
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Does the job well."
+      },
+      {
+        "rating": 4.5,
+        "comment": "Great cooling effect and energy efficient."
+      }
+    ],
+    "price": 149.99,
+    "usedTime": 3,
+    "category": "Cooler",
+    "sellerInfo": {
+      "name": "Jane Smith",
+      "location": {
+        "name": "Hall 2",
+        "coordinates": { "lat": 26.5123, "lng": 80.2329 }
+      },
+      "mobile": "098-765-4321",
+      "email": "jane.smith@example.com"
+    }
+  },
+  {
+    "id": 7,
+    "title": "Portable Air Cooler",
+    "smallDescription": "Compact and easy to move air cooler.",
+    "largeDescription": "Our portable air cooler is perfect for personal use. Its compact design makes it easy to move around, ensuring you stay cool wherever you are.",
+    "images": [
+      "https://rukminim2.flixcart.com/image/612/612/xif0q/air-cooler/l/a/2/-original-imagzma7uy7jjwkd.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/612/612/xif0q/air-cooler/c/g/t/-original-imagzw8egukg3yqz.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/612/612/xif0q/air-cooler/f/2/0/-original-imagzw8ef5ktt6z8.jpeg?q=70"
+    ],
+    "reviews": [
+      {
+        "rating": 4.3,
+        "comment": "Very convenient and effective."
+      },
+      {
+        "rating": 4.6,
+        "comment": "Great for small spaces."
+      }
+    ],
+    "price": 129.99,
+    "usedTime": 4,
+    "category": "Cooler",
+    "sellerInfo": {
+      "name": "Peter Parker",
+      "location": {
+        "name": "Hall 6",
+        "coordinates": { "lat": 26.5113, "lng": 80.2325 }
+      },
+      "mobile": "678-901-2345",
+      "email": "peter.parker@example.com"
+    }
+  },
+  {
+    "id": 8,
+    "title": "Energy Efficient Air Cooler",
+    "smallDescription": "Save on electricity with our energy efficient air cooler.",
+    "largeDescription": "Our energy efficient air cooler uses less power while providing excellent cooling. It's perfect for those who want to stay cool without high electricity bills.",
+    "images": [
+      "https://rukminim2.flixcart.com/image/612/612/xif0q/air-cooler/r/t/x/-original-imagzvaht6f2bf8d.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/612/612/xif0q/air-cooler/z/f/h/-original-imagzvaheqhbdxup.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/612/612/xif0q/air-cooler/t/d/p/-original-imagzvahhefcqz7z.jpeg?q=70"
+    ],
+    "reviews": [
+      {
+        "rating": 4.7,
+        "comment": "Really saves on electricity."
+      },
+      {
+        "rating": 4.9,
+        "comment": "Excellent cooling performance."
+      }
+    ],
+    "price": 169.99,
+    "usedTime": 6,
+    "category": "Cooler",
+    "sellerInfo": {
+      "name": "Mary Johnson",
+      "location": {
+        "name": "Hall 7",
+        "coordinates": { "lat": 26.5128, "lng": 80.2334 }
+      },
+      "mobile": "789-012-3456",
+      "email": "mary.johnson@example.com"
+    }
+  },
+  {
+    "id": 9,
+    "title": "Powerful Tower Fan",
+    "smallDescription": "Stay cool with our powerful tower fan.",
+    "largeDescription": "Our powerful tower fan provides excellent airflow and cooling. Its sleek and modern design makes it a great addition to any room.",
+    "images": [
+      "https://rukminim2.flixcart.com/image/612/612/xif0qkw0/fan/8/z/f/hztf-401-tower-fan-havells-original-imafkj25hghxwnmv.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/612/612/k3xcdjk0pkrrdj/fan/8/z/f/havells-hztf-401-tower-fan-havells-original-imafmsufatb4trur.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/612/612/k3xcdjk0pkrrdj/fan/8/z/f/havells-hztf-401-tower-fan-havells-original-imafmsufekuqbk5s.jpeg?q=70"
+    ],
+    "reviews": [
+      {
+        "rating": 4.5,
+        "comment": "Really cools down the room quickly."
+      },
+      {
+        "rating": 4.8,
+        "comment": "Sleek design and powerful performance."
+      }
+    ],
+    "price": 99.99,
+    "usedTime": 7,
+    "category": "Fan",
+    "sellerInfo": {
+      "name": "Michael Williams",
+      "location": {
+        "name": "Hall 8",
+        "coordinates": { "lat": 26.5119, "lng": 80.2339 }
+      },
+      "mobile": "890-123-4567",
+      "email": "michael.williams@example.com"
+    }
+  },
+  {
+    "id": 10,
+    "title": "Smart Ceiling Fan",
+    "smallDescription": "Control your fan with your smartphone.",
+    "largeDescription": "Our smart ceiling fan can be controlled remotely via your smartphone, allowing you to adjust the speed and settings from anywhere. It's perfect for modern homes.",
+    "images": [
+      "https://rukminim2.flixcart.com/image/612/612/jwaztzk0/fan/m/z/d/energy-saving-fan-orpat-original-imafgznyryjjbgte.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/612/612/jwaztzk0/fan/f/g/u/energy-saving-fan-orpat-original-imafgznyxgazhrby.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/612/612/jwaztzk0/fan/g/a/z/energy-saving-fan-orpat-original-imafgznyfxhuy3bh.jpeg?q=70"
+    ],
+    "reviews": [
+      {
+        "rating": 4.3,
+        "comment": "Convenient and easy to use."
+      },
+      {
+        "rating": 4.6,
+        "comment": "Love being able to control it with my phone."
+      }
+    ],
+    "price": 129.99,
+    "usedTime": 2,
+    "category": "Fan",
+    "sellerInfo": {
+      "name": "Jennifer Taylor",
+      "location": {
+        "name": "Hall 9",
+        "coordinates": { "lat": 26.5115, "lng": 80.2341 }
+      },
+      "mobile": "901-234-5678",
+      "email": "jennifer.taylor@example.com"
+    }
+  },
+  {
+    "id": 11,
+    "title": "Portable Electric Heater",
+    "smallDescription": "Compact and efficient electric heater.",
+    "largeDescription": "Stay warm and cozy with our portable electric heater. Designed to heat up quickly and distribute warmth evenly, this heater is a must-have for chilly days and nights.",
+    "images": [
+      "https://rukminim2.flixcart.com/image/612/612/xif0q/room-heater/e/f/p/heat-max-activa-2000-original-imaghyuk6hz9xszf.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/612/612/xif0q/room-heater/n/b/y/heat-max-activa-2000-original-imaghyuksb2fza5s.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/612/612/xif0q/room-heater/t/h/k/heat-max-activa-2000-original-imagg2uyuwxqephe.jpeg?q=70"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Heats up the room really fast."
+      },
+      {
+        "rating": 4.5,
+        "comment": "Compact and efficient, perfect for my needs."
+      }
+    ],
+    "price": 79.99,
+    "usedTime": 12,
+    "category": "Heater",
+    "sellerInfo": {
+      "name": "Emily Brown",
+      "mobile": "555-123-4567",
+      "email": "emily.brown@example.com",
+      "location": {
+        "name": "Hall 3",
+        "coordinates": {
+          "lat": 26.5123,
+          "lng": 80.2321
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "title": "Infrared Quartz Heater",
+    "smallDescription": "Efficient and safe infrared heater.",
+    "largeDescription": "Our infrared quartz heater provides efficient and safe heating for any room. With a stylish design and advanced safety features, it is perfect for your home.",
+    "images": [
+      "https://rukminim2.flixcart.com/image/612/612/xif0q/room-heater/y/z/f/ignite-solora-2000-original-imagux8xpyggv6xs.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/612/612/xif0q/room-heater/s/b/l/ignite-fan-heater-solora-2000-original-imagts5pzbbydymc.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/612/612/xif0q/room-heater/n/c/l/ignite-fan-heater-solora-2000-original-imagts5pfhc8vmfj.jpeg?q=70"
+    ],
+    "reviews": [
+      {
+        "rating": 4.7,
+        "comment": "Very effective heating."
+      },
+      {
+        "rating": 4.8,
+        "comment": "Safe and stylish."
+      }
+    ],
+    "price": 129.99,
+    "usedTime": 6,
+    "category": "Heater",
+    "sellerInfo": {
+      "name": "George White",
+      "mobile": "654-321-0987",
+      "email": "george.white@example.com",
+      "location": {
+        "name": "Hall 10",
+        "coordinates": {
+          "lat": 26.5125,
+          "lng": 80.2318
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "title": "Oil-Filled Radiator Heater",
+    "smallDescription": "Quiet and efficient oil-filled heater.",
+    "largeDescription": "Enjoy quiet and efficient heating with our oil-filled radiator heater. It provides long-lasting warmth and is perfect for bedrooms and living rooms.",
+    "images": [
+      "https://rukminim2.flixcart.com/image/612/612/k4yhtow0/room-heater/g/4/n/sj-winter-room-heater-shopsji-original-imafnqyayjst7zfv.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/612/612/k4yhtow0/room-heater/g/4/n/sj-winter-room-heater-shopsji-original-imafnqyayjst7zfv.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/612/612/k4yhtow0/room-heater/g/4/n/sj-winter-room-heater-shopsji-original-imafnqyayjst7zfv.jpeg?q=70"
+    ],
+    "reviews": [
+      {
+        "rating": 4.6,
+        "comment": "Quiet and efficient."
+      },
+      {
+        "rating": 4.9,
+        "comment": "Keeps the room warm for hours."
+      }
+    ],
+    "price": 99.99,
+    "usedTime": 9,
+    "category": "Heater",
+    "sellerInfo": {
+      "name": "Sophia Green",
+      "mobile": "789-456-1230",
+      "email": "sophia.green@example.com",
+      "location": {
+        "name": "Hall 11",
+        "coordinates": {
+          "lat": 26.5141,
+          "lng": 80.2306
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "title": "Ceramic Space Heater",
+    "smallDescription": "Compact and powerful ceramic heater.",
+    "largeDescription": "Our ceramic space heater is compact yet powerful, offering quick and efficient heating for small spaces. Its safety features make it a great choice for homes with pets and children.",
+    "images": [
+      "https://rukminim2.flixcart.com/image/612/612/xif0q/room-heater/c/g/f/k0-2215-khaitan-orfin-2000-original-imaghzyffbxmjrzp.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/612/612/xif0q/room-heater/g/e/p/k0-2215-khaitan-orfin-2000-original-imaghzyfpjwx8hfz.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/612/612/xif0q/room-heater/f/u/i/k0-2215-khaitan-orfin-2000-original-imaghzyfjegapfuj.jpeg?q=70"
+    ],
+    "reviews": [
+      {
+        "rating": 4.8,
+        "comment": "Quickly heats up the room."
+      },
+      {
+        "rating": 5,
+        "comment": "Compact and safe."
+      }
+    ],
+    "price": 59.99,
+    "usedTime": 4,
+    "category": "Heater",
+    "sellerInfo": {
+      "name": "Oliver Black",
+      "mobile": "890-234-5678",
+      "email": "oliver.black@example.com",
+      "location": {
+        "name": "Hall 12",
+        "coordinates": {
+          "lat": 26.5127,
+          "lng": 80.2302
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "title": "Tower Heater with Oscillation",
+    "smallDescription": "Sleek and efficient tower heater.",
+    "largeDescription": "Our tower heater with oscillation provides even and efficient heating for your space. Its sleek design and advanced features make it a stylish and practical choice.",
+    "images": [
+      "https://rukminim2.flixcart.com/image/612/612/kvr01ow0/room-heater/p/e/b/blaze-neo-gestor-original-imag8hy2gyzx8n2b.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/612/612/kvr01ow0/room-heater/d/t/r/blaze-neo-gestor-original-imag8hy25h6hvjhs.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/612/612/kvr01ow0/room-heater/i/a/k/blaze-neo-gestor-original-imag8hy24jhxwvqp.jpeg?q=70"
+    ],
+    "reviews": [
+      {
+        "rating": 4.9,
+        "comment": "Even heating with oscillation."
+      },
+      {
+        "rating": 5,
+        "comment": "Looks great and works perfectly."
+      }
+    ],
+    "price": 139.99,
+    "usedTime": 5,
+    "category": "Heater",
+    "sellerInfo": {
+      "name": "Charlotte Brown",
+      "mobile": "987-654-3210",
+      "email": "charlotte.brown@example.com",
+      "location": {
+        "name": "Hall 13",
+        "coordinates": {
+          "lat": 26.5150,
+          "lng": 80.2298
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "title": "Mountain Bike",
+    "smallDescription": "Durable and high-performance mountain bike.",
+    "largeDescription": "Conquer any terrain with our rugged mountain bike. Built for durability and performance, it's perfect for both off-road adventures and city rides.",
+    "images": [
+      "https://example.com/images/cycle1.jpg",
+      "https://example.com/images/cycle2.jpg",
+      "https://example.com/images/cycle3.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4.8,
+        "comment": "Excellent bike for the price."
+      },
+      {
+        "rating": 4.7,
+        "comment": "Handles rough trails with ease."
+      }
+    ],
+    "price": 499.99,
+    "usedTime": 10,
+    "category": "Cycle",
+    "sellerInfo": {
+      "name": "Michael Johnson",
+      "mobile": "444-555-6666",
+      "email": "michael.johnson@example.com",
+      "location": {
+        "name": "Hall 4",
+        "coordinates": {
+          "lat": 26.5113,
+          "lng": 80.2332
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "title": "Road Bike",
+    "smallDescription": "Lightweight and fast road bike.",
+    "largeDescription": "Our road bike is designed for speed and efficiency. With a lightweight frame and high-quality components, it's perfect for long-distance rides and racing.",
+    "images": [
+      "https://example.com/images/cycle4.jpg",
+      "https://example.com/images/cycle5.jpg",
+      "https://example.com/images/cycle6.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4.9,
+        "comment": "Super fast and lightweight."
+      },
+      {
+        "rating": 5,
+        "comment": "Perfect for long rides."
+      }
+    ],
+    "price": 799.99,
+    "usedTime": 7,
+    "category": "Cycle",
+    "sellerInfo": {
+      "name": "Emma Wilson",
+      "mobile": "321-654-9870",
+      "email": "emma.wilson@example.com",
+      "location": {
+        "name": "Hall 5",
+        "coordinates": {
+          "lat": 26.5118,
+          "lng": 80.2335
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "title": "Hybrid Bike",
+    "smallDescription": "Versatile hybrid bike for urban and off-road riding.",
+    "largeDescription": "Our hybrid bike combines the best features of road and mountain bikes, making it perfect for versatile riding. Whether you're commuting to work or hitting the trails, this bike can handle it all.",
+    "images": [
+      "https://example.com/images/cycle7.jpg",
+      "https://example.com/images/cycle8.jpg",
+      "https://example.com/images/cycle9.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4.7,
+        "comment": "Great all-around bike."
+      },
+      {
+        "rating": 4.8,
+        "comment": "Smooth ride on various terrains."
+      }
+    ],
+    "price": 599.99,
+    "usedTime": 4,
+    "category": "Cycle",
+    "sellerInfo": {
+      "name": "Liam Johnson",
+      "mobile": "456-789-0123",
+      "email": "liam.johnson@example.com",
+      "location": {
+        "name": "Hall 6",
+        "coordinates": {
+          "lat": 26.5112,
+          "lng": 80.2340
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "title": "Electric Mountain Bike",
+    "smallDescription": "Powerful electric mountain bike for effortless rides.",
+    "largeDescription": "Our electric mountain bike combines the thrill of mountain biking with the ease of electric assistance. Climb hills with ease and enjoy longer rides without fatigue.",
+    "images": [
+      "https://example.com/images/cycle10.jpg",
+      "https://example.com/images/cycle11.jpg",
+      "https://example.com/images/cycle12.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4.6,
+        "comment": "Love the electric assistance."
+      },
+      {
+        "rating": 4.9,
+        "comment": "Excellent performance on trails."
+      }
+    ],
+    "price": 1199.99,
+    "usedTime": 2,
+    "category": "Cycle",
+    "sellerInfo": {
+      "name": "Mia Taylor",
+      "mobile": "567-890-1234",
+      "email": "mia.taylor@example.com",
+      "location": {
+        "name": "Hall 7",
+        "coordinates": {
+          "lat": 26.5129,
+          "lng": 80.2348
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "title": "Folding Bike",
+    "smallDescription": "Compact and portable folding bike for easy storage.",
+    "largeDescription": "Our folding bike is perfect for urban commuters and travelers. It folds up quickly and easily for convenient storage and transportation.",
+    "images": [
+      "https://example.com/images/cycle13.jpg",
+      "https://example.com/images/cycle14.jpg",
+      "https://example.com/images/cycle15.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4.8,
+        "comment": "Great for city commuting."
+      },
+      {
+        "rating": 5,
+        "comment": "Compact and easy to fold."
+      }
+    ],
+    "price": 349.99,
+    "usedTime": 3,
+    "category": "Cycle",
+    "sellerInfo": {
+      "name": "Noah Martinez",
+      "mobile": "678-901-2345",
+      "email": "noah.martinez@example.com",
+      "location": {
+        "name": "Hall 8",
+        "coordinates": {
+          "lat": 26.5120,
+          "lng": 80.2342
+        }
+      }
+    }
+  }
+
+,
+  {
+    "id": 21,
+    "title": "Bestselling Fiction Book",
+    "smallDescription": "A gripping and thrilling novel.",
+    "largeDescription": "Dive into an exciting world with our bestselling fiction book. With a captivating plot and unforgettable characters, it's a page-turner that you won't be able to put down.",
+    "images": [
+      "https://example.com/images/book1.jpg",
+      "https://example.com/images/book2.jpg",
+      "https://example.com/images/book3.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4.9,
+        "comment": "Couldn't put it down!"
+      },
+      {
+        "rating": 5,
+        "comment": "A masterpiece of modern fiction."
+      }
+    ],
+    "price": 19.99,
+    "usedTime": 1,
+    "category": "Book",
+    "sellerInfo": {
+      "name": "Laura Wilson",
+      "mobile": "321-654-9870",
+      "email": "laura.wilson@example.com",
+      "location": {
+        "name": "Hall 5",
+        "coordinates": {
+          "lat": 26.5153,
+          "lng": 80.2335
+        }
+      }
+    }
+  },
+  {
+    "id": 22,
+    "title": "Classic Literature Book Set",
+    "smallDescription": "Essential classics for your library.",
+    "largeDescription": "Expand your literary horizons with our classic literature book set. Featuring timeless works from renowned authors, this set is a must-have for any book lover.",
+    "images": [
+      "https://example.com/images/book4.jpg",
+      "https://example.com/images/book5.jpg",
+      "https://example.com/images/book6.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4.7,
+        "comment": "Beautiful editions of classic works."
+      },
+      {
+        "rating": 4.8,
+        "comment": "Great addition to my library."
+      }
+    ],
+    "price": 49.99,
+    "usedTime": 0,
+    "category": "Book",
+    "sellerInfo": {
+      "name": "Daniel Johnson",
+      "mobile": "654-987-0123",
+      "email": "daniel.johnson@example.com",
+      "location": {
+        "name": "Hall 6",
+        "coordinates": {
+          "lat": 26.5153,
+          "lng": 80.2335
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "title": "Self-Help Book Collection",
+    "smallDescription": "Empower yourself with our self-help book collection.",
+    "largeDescription": "Achieve personal growth and fulfillment with our self-help book collection. From motivational guides to practical advice, these books will inspire and empower you.",
+    "images": [
+      "https://example.com/images/book7.jpg",
+      "https://example.com/images/book8.jpg",
+      "https://example.com/images/book9.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4.6,
+        "comment": "Life-changing books."
+      },
+      {
+        "rating": 4.9,
+        "comment": "Inspiring and practical advice."
+      }
+    ],
+    "price": 29.99,
+    "usedTime": 2,
+    "category": "Book",
+    "sellerInfo": {
+      "name": "Sophia Brown",
+      "mobile": "789-012-3456",
+      "email": "sophia.brown@example.com",
+      "location": {
+        "name": "Hall 7",
+        "coordinates": {
+          "lat": 26.5153,
+          "lng": 80.2335
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "title": "Bestselling Mystery Book",
+    "smallDescription": "A thrilling mystery novel that will keep you guessing.",
+    "largeDescription": "Solve the case alongside our bestselling mystery book. With twists and turns at every corner, it's a gripping read that will keep you on the edge of your seat until the very end.",
+    "images": [
+      "https://example.com/images/book10.jpg",
+      "https://example.com/images/book11.jpg",
+      "https://example.com/images/book12.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4.8,
+        "comment": "Couldn't guess the ending!"
+      },
+      {
+        "rating": 4.9,
+        "comment": "Kept me hooked from start to finish."
+      }
+    ],
+    "price": 24.99,
+    "usedTime": 3,
+    "category": "Book",
+    "sellerInfo": {
+      "name": "Ethan Martinez",
+      "mobile": "012-345-6789",
+      "email": "ethan.martinez@example.com",
+      "location": {
+        "name": "Hall 8",
+        "coordinates": {
+          "lat": 26.5153,
+          "lng": 80.2335
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "title": "Educational Laptop for Students",
+    "smallDescription": "Powerful laptop for students to excel in their studies.",
+    "largeDescription": "Our educational laptop is designed to support students in their learning journey. With powerful performance and educational tools, it's the perfect companion for school and college.",
+    "images": [
+      "https://example.com/images/laptop1.jpg",
+      "https://example.com/images/laptop2.jpg",
+      "https://example.com/images/laptop3.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4.9,
+        "comment": "Great laptop for students."
+      },
+      {
+        "rating": 5,
+        "comment": "Highly recommend for school use."
+      }
+    ],
+    "price": 699.99,
+    "usedTime": 1,
+    "category": "Laptop",
+    "sellerInfo": {
+      "name": "Ava Johnson",
+      "mobile": "456-789-0123",
+      "email": "ava.johnson@example.com",
+      "location": {
+        "name": "Hall 9",
+        "coordinates": {
+          "lat": 26.5153,
+          "lng": 80.2335
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "title": "Gaming Laptop with High Performance",
+    "smallDescription": "Immerse yourself in gaming with our high-performance laptop.",
+    "largeDescription": "Experience gaming like never before with our high-performance gaming laptop. With advanced graphics and processing power, it delivers smooth and immersive gameplay.",
+    "images": [
+      "https://example.com/images/laptop4.jpg",
+      "https://example.com/images/laptop5.jpg",
+      "https://example.com/images/laptop6.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4.7,
+        "comment": "Excellent gaming laptop."
+      },
+      {
+        "rating": 4.8,
+        "comment": "Runs all my favorite games smoothly."
+      }
+    ],
+    "price": 1299.99,
+    "usedTime": 0,
+    "category": "Laptop",
+    "sellerInfo": {
+      "name": "William Brown",
+      "mobile": "567-890-1234",
+      "email": "william.brown@example.com",
+      "location": {
+        "name": "Hall 10",
+        "coordinates": {
+          "lat": 26.5153,
+          "lng": 80.2335
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "title": "Ultra-Slim Laptop for Professionals",
+    "smallDescription": "Sleek and powerful laptop for professionals on the go.",
+    "largeDescription": "Stay productive wherever you are with our ultra-slim laptop. With its lightweight design and powerful features, it's perfect for professionals who need to work on the move.",
+    "images": [
+      "https://example.com/images/laptop7.jpg",
+      "https://example.com/images/laptop8.jpg",
+      "https://example.com/images/laptop9.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4.6,
+        "comment": "Great laptop for work."
+      },
+      {
+        "rating": 4.9,
+        "comment": "Slim and powerful, just what I needed."
+      }
+    ],
+    "price": 999.99,
+    "usedTime": 2,
+    "category": "Laptop",
+    "sellerInfo": {
+      "name": "James Wilson",
+      "mobile": "678-901-2345",
+      "email": "james.wilson@example.com",
+      "location": {
+        "name": "Hall 11",
+        "coordinates": {
+          "lat": 26.5153,
+          "lng": 80.2335
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "title": "Convertible Laptop/Tablet Hybrid",
+    "smallDescription": "Versatile laptop and tablet in one device.",
+    "largeDescription": "Get the best of both worlds with our convertible laptop/tablet hybrid. Switch between laptop and tablet modes effortlessly for work, play, and everything in between.",
+    "images": [
+      "https://example.com/images/laptop10.jpg",
+      "https://example.com/images/laptop11.jpg",
+      "https://example.com/images/laptop12.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4.8,
+        "comment": "Love the versatility of this device."
+      },
+      {
+        "rating": 5,
+        "comment": "Perfect for both work and entertainment."
+      }
+    ],
+    "price": 899.99,
+    "usedTime": 1,
+    "category": "Laptop",
+    "sellerInfo": {
+      "name": "Olivia Garcia",
+      "mobile": "789-012-3456",
+      "email": "olivia.garcia@example.com",
+      "location": {
+        "name": "Hall 12",
+        "coordinates": {
+          "lat": 26.5153,
+          "lng": 80.2335
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "title": "Budget-Friendly Laptop for Students",
+    "smallDescription": "Affordable laptop packed with features for students.",
+    "largeDescription": "Our budget-friendly laptop offers great performance and essential features at an affordable price. It's the perfect choice for students who need a reliable device for school.",
+    "images": [
+      "https://example.com/images/laptop13.jpg",
+      "https://example.com/images/laptop14.jpg",
+      "https://example.com/images/laptop15.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4.5,
+        "comment": "Great value for money."
+      },
+      {
+        "rating": 4.7,
+        "comment": "Perfect for school use."
+      }
+    ],
+    "price": 499.99,
+    "usedTime": 3,
+    "category": "Laptop",
+    "sellerInfo": {
+      "name": "Noah Martinez",
+      "mobile": "890-123-4567",
+      "email": "noah.martinez@example.com",
+      "location": {
+        "name": "Hall 13",
+        "coordinates": {
+          "lat": 26.5153,
+          "lng": 80.2335
+        }
+      }
+    }
+  }
+]

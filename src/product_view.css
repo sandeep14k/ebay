@@ -1,0 +1,176 @@
+.title{
+    margin: 2% 0 0 3%;
+    font-weight: normal;
+}
+.smallDescription{
+     margin: 1% 0 0 3%;
+     font-weight: lighter;
+}
+.greenText{
+    color: #388e3c;
+    margin: 1.5% 0 0 3%;
+    font-weight: bold;
+    font-size: small;
+}
+.price{
+    margin: 0 0 0 3%;
+}
+.usedTime{
+    margin: 0 0 0 3%;
+}
+.largeDescription{
+    margin: 0 0 5% 3%;
+    font-weight: normal;
+}
+.grayText{
+    color: #878787;
+    margin: 3% 0 0 3%;
+    display: inline;
+}
+.seller{
+    display: inline;
+    margin-left:11%;
+    color: #2874f0;
+}
+.mobileNo{
+    display: inline;
+    margin-left: 6%;
+}
+.email{
+    display: inline;
+    margin-left: 11%;
+}
+.location{
+    display: inline;
+    margin-left: 8%;
+    color: #2874f0;
+}
+
+
+
+.smallImgsBox{
+    background-color: white;
+    position: fixed;
+    top:60px;
+    left:1.5%;
+    width: 5%;
+    border:1px solid rgb(181, 181, 181);
+    border-right:0px;
+    height: 90%;
+
+}
+.smallImgs{
+    height: 10%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.smallImgs:hover{
+    border: 2px solid blue;
+    width: 93%;
+}
+.bigImgBox{
+    background-color: white;
+    position: fixed;
+    top:60px;
+    left:6.7%;
+    width: 35%;
+    border:1px solid rgb(227, 226, 226);
+    border-left: 0px;
+    height: 90%;
+}
+.bigImg{
+    width: 100%;
+    height: 80%;
+}
+.bigImgBox button{
+    border-radius: 0;
+    width: 48%;
+    height: 10%;
+    margin-top: 7%;
+}
+.container {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto auto;
+    justify-items: center;
+    width: 56%;
+    left: 43%;
+    position:absolute;
+    top: 60px;
+  }
+.productDetail{
+    background-color: white;
+    box-shadow: 0px 4px 20px rgba(158, 159, 158, 0.5);
+}
+.sellerContact{
+    background-color: white;
+    box-shadow: 0px 4px 20px rgba(158, 159, 158, 0.5);
+    padding-top: 1%;
+    padding-bottom: 2%;
+    width: 100%;
+    margin-top: 1%;
+}
+.map{
+    background-color: white;
+}
+.reviews{
+    background-color: white;
+    width: 100%;
+    box-shadow: 0px 4px 20px rgba(158, 159, 158, 0.5);
+    padding-top: 1%;
+    padding-bottom: 2%;
+    margin-top: 1%;
+}
+.mapBox{
+    position: absolute;
+    height: 60%; 
+    width: 100% ;
+    left: 0%;
+    margin-top: 1%;
+    box-shadow:0px 4px 20px rgba(158, 159, 158, 0.5);
+    z-index:0;
+}
+@media (max-width:832px){
+    .mapBox{
+          margin-top: 1%;
+    }
+}
+@media (max-width:758px){
+    .bigImgBox{
+        width: 100%;
+        position:absolute;
+        left: 0%;
+        height: 95%;
+        top:51px;
+    }
+    .bigImgBox button{
+       margin-top: 4%;
+    }
+    .smallImgsBox{
+        width: 100%;
+        position: absolute;
+        top:103.8%;
+        height: 10%;
+        display: inline;
+        left: 0%;
+        border-top-width: 0px;
+        z-index: 1;
+    }
+    .smallImgs{
+        display: inline;
+        width: 20%;
+        height: 90%;
+        margin-left: 10%;
+    }
+    .smallImgs:hover{
+        width: 19%;
+        height: 85%;
+ 
+    }
+    .container{
+        top:115%;
+        width: 100%;
+        left: 0%;
+    }
+}

@@ -1,0 +1,52 @@
+/* styles.css */
+
+.chat-container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    padding: 20px;
+    max-width: 600px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+  }
+  
+  .chat-history {
+    flex-grow: 1;
+    overflow-y: auto;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .chat-input {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-top: 1px solid #ccc;
+  }
+  
+  .chat-input input {
+    flex-grow: 1;
+    padding: 10px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+  }
+  
+  .chat-input button {
+    margin-left: 10px;
+  }
+.subNavChat{
+  background-color:white;
+  width: 100%;
+  height: 40px;
+  position:fixed;
+  top: 50px;
+  border: 1px solid #d5d1d1;
+  box-shadow:0px 4px 20px rgba(158, 159, 158, 0.5);
+  z-index: 2;
+}  
+.sellerName{
+  display: inline;
+  color: #2874f0;
+  margin-left:2% ;
+}
