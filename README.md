@@ -1,3 +1,27 @@
+ebay is hosted on-https://sandeep14k.github.io/ebay/
+index page shows-product list it contain a sunNavbar(category) if click on any category it will show the product of that category when click on product then product-preview page open where product details mention there are three small img and one big img when click on small img that small img appear on big img div.this page also contain map which indicate location of seller and when click on buy now chat page open where buyer and seller can chat.
+profile page add to cart button have no any function but edit and sell button have.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
