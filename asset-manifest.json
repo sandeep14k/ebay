@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ebay/static/css/main.b544dfb2.css",
+    "main.js": "/ebay/static/js/main.0fa79036.js",
+    "static/js/453.7d127075.chunk.js": "/ebay/static/js/453.7d127075.chunk.js",
+    "index.html": "/ebay/index.html",
+    "main.b544dfb2.css.map": "/ebay/static/css/main.b544dfb2.css.map",
+    "main.0fa79036.js.map": "/ebay/static/js/main.0fa79036.js.map",
+    "453.7d127075.chunk.js.map": "/ebay/static/js/453.7d127075.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b544dfb2.css",
+    "static/js/main.0fa79036.js"
+  ]
+}
