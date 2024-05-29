@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ebay/static/css/main.470e046b.css",
-    "main.js": "/ebay/static/js/main.e69caa5c.js",
+    "main.js": "/ebay/static/js/main.ebdeebab.js",
     "static/js/453.7d127075.chunk.js": "/ebay/static/js/453.7d127075.chunk.js",
     "index.html": "/ebay/index.html",
     "main.470e046b.css.map": "/ebay/static/css/main.470e046b.css.map",
-    "main.e69caa5c.js.map": "/ebay/static/js/main.e69caa5c.js.map",
+    "main.ebdeebab.js.map": "/ebay/static/js/main.ebdeebab.js.map",
     "453.7d127075.chunk.js.map": "/ebay/static/js/453.7d127075.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.470e046b.css",
-    "static/js/main.e69caa5c.js"
+    "static/js/main.ebdeebab.js"
   ]
 }
